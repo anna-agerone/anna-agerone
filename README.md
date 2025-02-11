@@ -7,7 +7,7 @@
 - **Styling:** HTML5, CSS3, Sass  
 - **Performance & Optimization:** Responsive design, accessibility (a11y), Web Performance  
 
-### **Backend (Knowledge)** ⚙️  
+### **Backend** ⚙️  
 - **Server & APIs:** Node.js, Express, REST APIs  
 - **Databases:** SQL, PostgreSQL  
 
