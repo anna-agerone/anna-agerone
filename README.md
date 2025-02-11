@@ -1,7 +1,5 @@
 ## 🚀 Frontend Developer
 
----
-
 ## 🔹 Skills & Technologies  
 
 ### **Frontend** 🌐  
