@@ -1,4 +1,4 @@
-## 🚀 Frontend Developer
+# 🚀 Frontend Developer  
 
 ## 🔹 Skills & Technologies  
 
@@ -32,6 +32,7 @@ Currently, I'm **seeking new opportunities** to apply my frontend expertise whil
 
 ---
 
-### 📫 Let's Connect!  
-📧 Email: [anna-agerone@gmail.com]  
-💼 LinkedIn: [www.linkedin.com/in/anna-agerone-7a2a41292] 
+## 📫 Let's Connect!  
+📧 Email: [anna.agerone@gmail.com](mailto:anna.agerone@gmail.com)  
+💼 LinkedIn: [Anna Agerone](https://www.linkedin.com/in/anna-agerone-7a2a41292)  
+
