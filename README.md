@@ -1,13 +1,12 @@
-# Full Stack Developer 🚀
+🚀 Frontend Developer
+Results-driven Frontend Developer with Full-Stack knowledge, actively seeking new opportunities to build impactful, high-performance web applications. Specializing in creating scalable, responsive, and visually engaging solutions that enhance user experience. 💻⚡
 
-Results-driven Full Stack Developer actively seeking new opportunities to create impactful, high-performance web applications. Specializing in building scalable, secure, and innovative solutions that align with business goals. 💻⚡
+Skills 🛠️
+Front-End: React, Redux Toolkit, JavaScript, TypeScript, HTML5, CSS3, Sass 🌐
+Performance & Optimization: Responsive design, accessibility (a11y), Web Performance 🚀
+Back-End (Knowledge): Node.js, Express, REST APIs, SQL, PostgreSQL ⚙️
+Tools & Technologies: Git, Webpack, Docker, CI/CD workflows 🛠️
+Programming Foundations: Basics - Object-Oriented Programming (OOP), C, C++, C stack
+Philosophy: Committed to writing clean, maintainable code with a focus on performance, accessibility, and scalability. 🎯
 
-## Skills 🛠️
-
-- **Front-End:** React, Redux Toolkit, JavaScript, TypeScript, HTML5, CSS3, Sass 🌐
-- **Back-End:** Node.js, Express, REST APIs, WebSockets, SQL, PostgreSQL, Sequelize ⚙️
-- **Tools & Technologies:** Git, Webpack, Docker, CI/CD workflows 🛠️
-- **Programming Foundations:** Object-Oriented Programming (OOP), C, C++, C stack 
-- **Philosophy:** Committed to writing clean, maintainable code with a focus on security, performance, and scalability 🔒⚡
-
-Currently seeking opportunities to apply my technical expertise in solving complex challenges and driving business growth. Ready to contribute and thrive in a fast-paced, collaborative environment. 💡
+Currently seeking opportunities to apply my expertise in solving complex frontend challenges while leveraging full-stack knowledge to build seamless, end-to-end solutions. Ready to contribute and thrive in a fast-paced, collaborative environment. 💡
