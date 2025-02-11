@@ -1,12 +1,39 @@
 🚀 Frontend Developer
-Results-driven Frontend Developer with Full-Stack knowledge, actively seeking new opportunities to build impactful, high-performance web applications. Specializing in creating scalable, responsive, and visually engaging solutions that enhance user experience. 💻⚡
 
-Skills 🛠️
-Front-End: React, Redux Toolkit, JavaScript, TypeScript, HTML5, CSS3, Sass 🌐
-Performance & Optimization: Responsive design, accessibility (a11y), Web Performance 🚀
-Back-End (Knowledge): Node.js, Express, REST APIs, SQL, PostgreSQL ⚙️
-Tools & Technologies: Git, Webpack, Docker, CI/CD workflows 🛠️
-Programming Foundations: Basics - Object-Oriented Programming (OOP), C, C++, C stack
-Philosophy: Committed to writing clean, maintainable code with a focus on performance, accessibility, and scalability. 🎯
+---
 
-Currently seeking opportunities to apply my expertise in solving complex frontend challenges while leveraging full-stack knowledge to build seamless, end-to-end solutions. Ready to contribute and thrive in a fast-paced, collaborative environment. 💡
+## 🔹 Skills & Technologies  
+
+### **Frontend** 🌐  
+- **Languages & Frameworks:** React, Redux Toolkit, JavaScript, TypeScript  
+- **Styling:** HTML5, CSS3, Sass  
+- **Performance & Optimization:** Responsive design, accessibility (a11y), Web Performance  
+
+### **Backend (Knowledge)** ⚙️  
+- **Server & APIs:** Node.js, Express, REST APIs  
+- **Databases:** SQL, PostgreSQL  
+
+### **Tools & Workflows** 🛠️  
+- Git, Webpack, Docker  
+- CI/CD pipelines  
+
+### **Programming Foundations** 🎯  
+- Object-Oriented Programming (OOP)  
+- Basics of C, C++, C stack  
+
+---
+
+## 💡 My Philosophy  
+
+🔹 **Clean, maintainable code** – readable, scalable, and efficient.  
+🔹 **Performance-focused** – optimizing apps for speed and responsiveness.  
+🔹 **Accessible design** – ensuring usability for all.  
+🔹 **Continuous learning** – keeping up with modern web trends.  
+
+Currently, I'm **seeking new opportunities** to apply my frontend expertise while leveraging my full-stack knowledge to build seamless, end-to-end solutions. Excited to contribute and grow in a fast-paced, collaborative environment! 🚀  
+
+---
+
+### 📫 Let's Connect!  
+📧 Email: [anna-agerone@gmail.com]  
+💼 LinkedIn: [www.linkedin.com/in/anna-agerone-7a2a41292] 
