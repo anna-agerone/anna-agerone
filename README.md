@@ -1,26 +1,5 @@
 # 🚀 Frontend Developer  
 
-## 🔹 Skills & Technologies  
-
-### **Frontend** 🌐  
-- **Languages & Frameworks:** React, Redux Toolkit, JavaScript, TypeScript  
-- **Styling:** HTML5, CSS3, Sass  
-- **Performance & Optimization:** Responsive design, accessibility (a11y), Web Performance  
-
-### **Backend** ⚙️  
-- **Server & APIs:** Node.js, Express, REST APIs  
-- **Databases:** SQL, PostgreSQL  
-
-### **Tools & Workflows** 🛠️  
-- Git, Webpack, Docker  
-- CI/CD pipelines  
-
-### **Programming Foundations** 🎯  
-- Object-Oriented Programming (OOP)  
-- Basics of C, C++, C stack  
-
----
-
 ## 💡 My Philosophy  
 
 🔹 **Clean, maintainable code** – readable, scalable, and efficient.  
