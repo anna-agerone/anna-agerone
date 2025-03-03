@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Frontend Developer  
 
-<!--
-**anna-agerone/anna-agerone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 My Philosophy  
 
-Here are some ideas to get you started:
+🔹 **Clean, maintainable code** – readable, scalable, and efficient.  
+🔹 **Performance-focused** – optimizing apps for speed and responsiveness.  
+🔹 **Accessible design** – ensuring usability for all.  
+🔹 **Continuous learning** – keeping up with modern web trends.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm **seeking new opportunities** to apply my frontend expertise while leveraging my full-stack knowledge to build seamless, end-to-end solutions. Excited to contribute and grow in a fast-paced, collaborative environment! 🚀  
+
+---
+
+## 📫 Let's Connect!  
+📧 Email: [anna.agerone@gmail.com](mailto:anna.agerone@gmail.com)  
+💼 LinkedIn: [Anna Agerone](https://www.linkedin.com/in/anna-agerone-7a2a41292)  
