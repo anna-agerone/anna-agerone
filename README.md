@@ -1,4 +1,4 @@
-# 🚀 Frontend Developer  
+# 🚀 Front-End Developer  
 
 ## 💡 My Philosophy  
 
