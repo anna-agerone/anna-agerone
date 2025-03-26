@@ -1,13 +1,10 @@
 # Front-End Developer  
 
-## My Philosophy  
+Welcome to my page! 
 
-🔹 **Clean, maintainable code** – readable, scalable, and efficient.  
-🔹 **Performance-focused** – optimizing apps for speed and responsiveness.  
-🔹 **Accessible design** – ensuring usability for all.  
-🔹 **Continuous learning** – keeping up with modern web trends.  
+Currently, I'm working on my blog - stay tuned for exciting updates! 
 
-Currently, I'm **seeking new opportunities** to apply my frontend expertise while leveraging my full-stack knowledge to build seamless, end-to-end solutions. Excited to contribute and grow in a fast-paced, collaborative environment!  
+My goal is to learn something new every day. I’m passionate about bringing ideas to life through code and design, and I’m ready to make an impact!
 
 ---
 
